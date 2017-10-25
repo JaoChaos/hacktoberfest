@@ -16670,5 +16670,5 @@ to explore life. Also, Python and Django Developer
 
 #### Name: [Jovane Pires](https://github.com/jovanepires)
 - Place: Fortaleza, Brazil
-- Bio: Software Developer, Student of Data Science
+- Bio: Software Developer
 - GitHub: [jovanepires](https://github.com/jovanepires)
