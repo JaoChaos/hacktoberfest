@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Jovane Pires](https://github.com/jovanepires)
+- Place: Fortaleza, Brazil
+- Bio: Software Developer, Student of Data Science
+- GitHub: [jovanepires](https://github.com/jovanepires)
